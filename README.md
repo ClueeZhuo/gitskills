@@ -1,2 +1,2 @@
 # gitskills
-Creating a new branch is quickly and simpleee.
+Creating a new branch is quickly and simply.
